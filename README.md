@@ -14,3 +14,4 @@
 
 ## contato
 - 📫 email: mariaedrdabreu@gmail.com
+- 💼 linkedin: https://www.linkedin.com/in/mariaeduardaabreu/
