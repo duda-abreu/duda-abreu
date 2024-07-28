@@ -9,7 +9,7 @@
 - 👀 gosto *(muito)* do framework **vue**
 
 ## projetos
-### [Confere o meu site!](https://github.com/duda-abreu/meu-site-pessoal)
+### [confere o meu site!](https://github.com/duda-abreu/meu-site-pessoal)
 ![Work Computer](https://media.giphy.com/media/3Q2hJ4FLN1UvS/giphy.gif)
 
 ## estatísticas 📊
