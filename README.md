@@ -5,7 +5,6 @@
 ## sobre mim
 - 🎓 estudante de ciência da computação na UERJ
 - 💻 dev full stack
-- 🌱 estou aprendendo sobre **inteligência artificial** e me desenvolvendo em **javascript**
 
 ## projetos
 ### confere o [repositório](https://github.com/duda-abreu/meu-site-pessoal) do meu [site](https://duda-abreu.vercel.app)
