@@ -3,11 +3,10 @@
 ![Sailor Moon Hello](https://media.giphy.com/media/yyVph7ANKftIs/giphy.gif)
 
 ## sobre mim
-- 🎓 estudante de ciência da computação na UERJ
-- 💻 dev full stack
+- 💻 dev full stack com foco em backend
 
 ## projetos
-### confere o [repositório](https://github.com/duda-abreu/meu-site-pessoal) do meu [site](https://duda-abreu.vercel.app)
+### confere o [repositório](https://github.com/duda-abreu/meu-site-pessoal) do meu [site](https://duda-abreu.com.br)
 ![Work Computer](https://media.giphy.com/media/3Q2hJ4FLN1UvS/giphy.gif)
 
 ## estatísticas 📊
