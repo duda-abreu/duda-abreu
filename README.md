@@ -1,21 +1,24 @@
-# 👩‍💻 oie! eu sou a duda! 👋
+<div align="center">
 
-![Sailor Moon Hello](https://media.giphy.com/media/yyVph7ANKftIs/giphy.gif)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C6937B&background=1C1B1F00&center=true&vCenter=true&width=500&height=70&lines=name+%3D+%22Duda%22;print%28f%22Oi!+Eu+sou+a+{name}%22%29)](https://git.io/typing-svg)
 
-## sobre mim
-- 💻 dev full stack com foco em backend
+---
 
-## projetos
-### confere o [repositório](https://github.com/duda-abreu/meu-site-pessoal) do meu [site](https://duda-abreu.com.br)
-![Work Computer](https://media.giphy.com/media/3Q2hJ4FLN1UvS/giphy.gif)
-
-## estatísticas 📊
-
-<br/>
-<a href="#">
-  <img alt="top linguagens" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=duda-abreu&langs_count=8&layout=compact&theme=react&border_color=6D2C84&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,js,vue,mysql,html,css&theme=dark&perline=6" />
 </a>
 
-## contato
-- 📫 email: mariaedrdabreu@gmail.com
-- 💼 linkedin: https://www.linkedin.com/in/mariaeduardaabreu/
+---
+
+### 🔗 [duda-abreu.com.br](https://duda-abreu.com.br) 
+
+---
+
+<a href="https://www.linkedin.com/in/mariaeduardaabreu/">
+  <img src="https://img.shields.io/badge/LinkedIn-1C1B1F?style=for-the-badge&logo=linkedin&logoColor=E8E3DF&labelColor=1C1B1F&color=C8232B"/>
+</a>
+<a href="mailto:mariaedrdabreu@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-1C1B1F?style=for-the-badge&logo=gmail&logoColor=E8E3DF&labelColor=1C1B1F&color=8C573C"/>
+</a>
+
+</div>
